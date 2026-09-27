@@ -12,4 +12,5 @@ When code is added, update this file with:
 
 ## Communication
 
-The repository owner communicates in Japanese; reply in Japanese unless asked otherwise.
+- Always write replies in Japanese.
+- The first time a technical term appears in a reply, add a short explanation of its meaning in hiragana (e.g. コミット（へんこうを きろくすること）).
