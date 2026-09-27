@@ -13,4 +13,4 @@ When code is added, update this file with:
 ## Communication
 
 - Always write replies in Japanese.
-- The first time a technical term appears in a reply, add a short explanation of its meaning in parentheses, in plain Japanese (kanji is fine) (e.g. コミット（変更を記録すること）).
+- Every time a technical term appears in a reply (not only the first time), add a short explanation of its meaning in parentheses, in plain Japanese (kanji is fine) (e.g. コミット（変更を記録すること）).
